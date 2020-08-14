@@ -1,0 +1,8 @@
+*********************** ANOTACIONES ***********************
+
+-> ng new nombreProyecto
+-> ng serve -o
+
+*********************** GENERAR COMPONENTE ***********************
+
+-> ng g c component/footer - (Carpeta/Nombre)
